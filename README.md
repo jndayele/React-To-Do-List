@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<<
 Simple To Do List Made with ReactJs
 =======
 # Getting Started with Create React App
